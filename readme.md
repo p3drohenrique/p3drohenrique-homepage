@@ -1,6 +1,6 @@
 # P3dro Henrique Homepage
 
-[https://www.p3drohenrique.com.br](https://www.p3drohenrique.com.br);
+[https://p3drohenrique.com.br](https://p3drohenrique.com.br);
 
 ## Stack
 
