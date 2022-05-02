@@ -62,7 +62,7 @@ const Home = () => {
         <Paragraph>
           Sou programador full-stack e autonomo que mora em Sete Lagoas, MG
           com paixão em criar serviço/coisas digitais. Tenho conhecimento em lançamento de produtos,
-          desde o planejamento e design até a solução de problemas da vida real com o código.
+          desde o planejamento até a solução de problemas da vida real com o código.
           Quando não estou online gosto de ir no fliperama com os amigos ou jogar poker com eles.
           Atualmente trabalhando para uma empresa local da sua cidade natal.
         </Paragraph>
@@ -97,11 +97,11 @@ const Home = () => {
 
         <BioSection>
           <BioYear>2019</BioYear>
-          Primeiro rabalho como programador autônomo com php 🐘 e laravel
+          Primeiro trabalho como programador autônomo com php 🐘 e laravel
         </BioSection>
 
         <BioSection>
-          <BioYear>2020 até o presente</BioYear>
+          <BioYear>2020 - 2022</BioYear>
           Trabalhando como programador autônomo com nodejs, reactjs, react native e outras stacks
         </BioSection>
       </Section>
